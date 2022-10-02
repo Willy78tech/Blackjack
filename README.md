@@ -1,2 +1,2 @@
 # Blackjack
-simple blacjack application in java and javafx
+simple blacKjack application in java and javafx
